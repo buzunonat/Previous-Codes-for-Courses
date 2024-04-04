@@ -1,4 +1,4 @@
-# Previous-Codes-WWF
+# Previous-Codes
 The projects, assignments i've done so far in Python &amp; R
 
 Whats included in this folder
